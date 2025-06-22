@@ -30,8 +30,8 @@ A fully functional multi-agent Debate Bot project built using **Crew AI**, power
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/debate-bot-crewai.git
-cd debate-bot-crewai
+git clone https://github.com/Jomaxsoec/Debat-Bot-using-LLM.git
+cd Debat-Bot-using-LLM
 ```
 
 ## Required Setup ##
