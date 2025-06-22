@@ -32,13 +32,14 @@ A fully functional multi-agent Debate Bot project built using **Crew AI**, power
 ```bash
 git clone https://github.com/your-username/debate-bot-crewai.git
 cd debate-bot-crewai
-
+```
 
 ## Required Setup ##
 python = ">=3.10,<=3.13.1"
 crewai[tools]>=0.108.0,<1.0.0
 
 
-## To run ##
+### To run
+```bash
 crewai run
-
+```
