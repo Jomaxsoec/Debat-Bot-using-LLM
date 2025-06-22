@@ -1,0 +1,5 @@
+crewai>=0.27.4
+requests
+PyYAML
+pydantic
+python-dotenv
